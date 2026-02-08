@@ -1,0 +1,15 @@
+# NEURAL CORE - Documentation Only Repository
+# All source code is private - only README files are tracked
+
+# Block everything
+*
+
+# Allow documentation
+!README.md
+!README_RU.md
+!.gitignore
+
+# Optional: assets for README (screenshots, etc)
+!.github/
+!assets/
+!screenshots/
