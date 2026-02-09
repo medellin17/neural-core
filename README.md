@@ -8,6 +8,8 @@ No images. No videos. Just algorithms painting the canvas.
 [![Live Demo](https://img.shields.io/badge/view_live-vercel-black?style=flat-square&logo=vercel)](https://neural-core-six.vercel.app/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
+[Русская версия](README_RU.md) | English
+
 ---
 
 ## THE VISUAL EXPERIENCE
@@ -85,9 +87,9 @@ them — a synaptic bridge forming and dissolving.
 
 ```
     ◉───────◉          ◉───────◉
-     ╲     ╱            ╲     ╱
-      ╲   ╱              ╲   ╱
-       ╲ ╱                ╲ ╱
+     ╲     ╱             ╲     ╱
+      ╲   ╱               ╲   ╱
+       ╲ ╱                 ╲ ╱
         ◉                  ◉
 ```
 
